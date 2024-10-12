@@ -1,5 +1,6 @@
 # 🙏 नमस्ते, Tech Enthusiasts! 🌍🚀
-![Profile Views](https://img.shields.io/badge/Views-1,234-brightgreen?style=flat-square)  
+## 👤 Profile View
+![Profile Views](https://your-hitcount-url.com/count)
 
 A big *नमस्ते* from **Moxika Vaghela** to everyone in the tech world! Ready to dive into a world full of coding, chai, and hustle? Let's go on a fun tech journey together!
 
