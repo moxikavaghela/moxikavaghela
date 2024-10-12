@@ -1,9 +1,12 @@
 # 🙏 नमस्ते, Tech Enthusiasts! 🌍🚀
-## 👤 Profile View
-![Profile Views](https://your-hitcount-url.com/count)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 A big *नमस्ते* from **Moxika Vaghela** to everyone in the tech world! Ready to dive into a world full of coding, chai, and hustle? Let's go on a fun tech journey together!
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ## 👩‍💻 About Me
 I'm **Moxika Vaghela**, a proud **4th-year B.Tech CSE student at Parul University**. I’m an enthusiastic techie who loves to explore the latest tech innovations (aka *gossips*) and implement them in real-world projects. Always ready to grab new skills like samosas from a plate! 😋
 
@@ -79,14 +82,13 @@ Currently developing **Route Ranger**, a **blockchain-based transport management
 
 ---
 
-## 🖼️ Image:
-![Tech Enthusiasts](https://pxhere.com/en/photo/851773)
-
----
-
 ## 📫 Let's Connect:
 - 🌐 [Portfolio](https://moxikavaghela.github.io/myportfolio/)
 - 📧 [Email](mailto:moxikavaghela15123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moxikavaghela/)
   
 Thanks for visiting my profile! Let's keep coding, having fun, and building the future together. 👩‍💻✨
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
