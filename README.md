@@ -7,7 +7,9 @@ A big *नमस्ते* from **Moxika Vaghela** to everyone in the tech world
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ## 👩‍💻 About Me
+
 I'm **Moxika Vaghela**, a proud **4th-year B.Tech CSE student at Parul University**. I’m an enthusiastic techie who loves to explore the latest tech innovations (aka *gossips*) and implement them in real-world projects. Always ready to grab new skills like samosas from a plate! 😋
 
 ### 🎓 Educational Background
