@@ -31,10 +31,7 @@ Currently developing **Route Ranger**, a **blockchain-based transport management
 - 🔐 **Blockchain Security**: Data security that’s smarter than your average app.
 
 ### 💻 Technologies Used:
-- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![Blockchain](https://img.shields.io/badge/-Blockchain-0095D9?style=flat-square&logo=ethereum&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) - ![Blockchain](https://img.shields.io/badge/-Blockchain-0095D9?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
 
