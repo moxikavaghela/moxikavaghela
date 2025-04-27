@@ -26,10 +26,9 @@ A passionate techie who believes in continuous learning, building real-world pro
 
 I'm currently deep-diving into **.NET Development** to expand my backend and full-stack skills! 🌟  
 Exploring the beauty of:
-- **ASP.NET**
-- **VB.NET**
-- **C#.NET**
-- **MS-SQL Server**
+- 🌐 **ASP.NET for Web Development** — [Full Stack Web Development Repo 🚀](https://github.com/moxikavaghela/dotnet-roadmap)
+- 💻 **C#.NET** — [C# Learning Repo 📘](https://github.com/moxikavaghela/CSharp-Learning)
+- 🛢️ **MS-SQL Server**
 
 📈 Building a strong foundation for enterprise-grade applications and modern web solutions!
 
@@ -59,7 +58,7 @@ Exploring the beauty of:
 
 ---
 
-## 💋 Let's Connect:
+## Let's Connect:
 
 - 🌐 [Portfolio](https://moxikavaghela.github.io/myportfolio/)
 - 📧 [Email](mailto:moxikavaghela15123@gmail.com)
