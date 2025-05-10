@@ -216,15 +216,6 @@ This project is open source and available under the MIT License - see the LICENS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxikavaghela&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moxikavaghela/moxikavaghela/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
